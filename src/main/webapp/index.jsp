@@ -4,7 +4,7 @@
   
   <h2> Thank you</h2>
   
-  <h3> Testing GitHub Poll SCM </h3>
+  <h3> Testing GitHub Poll SCM. </h3>
 
   <h3> Happy Learning!!! </h3>
 
