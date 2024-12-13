@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> I Successfully Deployed Java Project  <font></h1>
+<h1><font color='red'> I Successfully Deployed Java Project in Tomcat <font></h1>
   
   <h2> Thank you</h2>
   
