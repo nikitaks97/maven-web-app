@@ -1,7 +1,7 @@
 ## Use the official Tomcat base image
 FROM tomcat:9.0
 
-# Expose port 8080 to the outside world
+# Expose port 8080 
 EXPOSE 8080
 
 # Copy the war file to the webapps directory of Tomcat
